@@ -27,4 +27,10 @@ public class Demo {
 	{
 		System.out.println();
 	}
+	
+	@Test
+	public void demo5()
+	{
+		System.out.println();
+	}
 }
